@@ -158,8 +158,6 @@ function click()
     wait()
     end
     end
-
-
 function rebirth()
 while getgenv().Rebirth == true do
 local ohNumber1 = SelectRebirth
